@@ -5,3 +5,4 @@ Lumina is a modern news website built with React. It provides up-to-date news ar
 Real-time News Updates: Get the latest news from various sources.
 Responsive Design: Optimized for both desktop and mobile devices.
 User-Friendly Interface: Easy navigation and article browsing.
+with the use of latest API
